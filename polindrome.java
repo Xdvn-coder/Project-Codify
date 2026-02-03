@@ -5,7 +5,7 @@ public class polindrome {
         String balik = "";
 
         //Input Kata Atau Angka
-        System.out.println("Masukkan Kata = ");
+        System.out.print("Masukkan Kata = ");
         String kata = input.nextLine();
 
         //Mengecek Tiap Kata atau Angka
